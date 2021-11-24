@@ -9810,7 +9810,7 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.npm.taobao.org/vue-hot-reload-api/download/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
   integrity sha1-UylVzB6yCKPZkLOp+acFdGV+CPI=
 
-vue-jest@^3.0.5, vue-jest@^3.0.7:
+vue-jest@^3.0.5:
   version "3.0.7"
   resolved "https://registry.npmmirror.com/vue-jest/download/vue-jest-3.0.7.tgz#a6d29758a5cb4d750f5d1242212be39be4296a33"
   integrity sha1-ptKXWKXLTXUPXRJCISvjm+QpajM=
